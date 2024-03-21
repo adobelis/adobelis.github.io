@@ -5,6 +5,6 @@ tags:
 - ai
 ---
 
-## AI for business -FAQ- WTF?
+## AI for business ~~FAQ~~ WTF?
 
 I'm really excited to be starting this blog!!
