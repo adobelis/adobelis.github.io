@@ -1,7 +1,8 @@
 ---
 title: "AI for business FAQ"
 date: 2024-03-21 16:58:56 +08:00
-previous: /intro
+previous: [/intro, "Introduction"]
+layout: page
 tags:
 - ai
 ---

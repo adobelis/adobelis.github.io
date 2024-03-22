@@ -1,6 +1,7 @@
 ---
 title: "Great new post"
 date: 2024-03-21 16:58:56 +08:00
+layout: post
 tags:
 - ai
 ---

@@ -1,8 +1,9 @@
 ---
 title: "AI for business FAQ"
 date: 2024-03-21 16:58:56 +08:00
-previous: /
-next: /what-is-ai-and-why-now
+previous: [/, "Blog homepage"]
+next: [/ai/what-is-ai-and-why-now, "What is AI and why is it moving so fast?"]
+layout: page
 tags:
 - ai
 ---
@@ -21,7 +22,7 @@ Formulating questions takes time and effort, which are precious commodities.
 
 GO to
 
-[Go to Previous Page]({{ page.previous }})
+[{{page.previous[1]}}]({{ page.previous[0] }})
 
 However, every businessperson, at this point, needs to get a toe-hold in AI concepts. Whether you plan to be at the leading edge or following the pack, the fast pace of progress in AI means it makes sense to keep yourself in a **state of readiness**. 
 
