@@ -19,6 +19,8 @@ There are hundreds of startups; almost all are very early stages of providing tr
 It is entirely reasonable, given the current state of play, to feel overwhelmed, not sure where to start, and indeed not sure what level of investment of time is worthwhile at this point. 
 Formulating questions takes time and effort, which are precious commodities. 
 
+[Go to Previous Page]({{ page.previous }})
+
 However, every businessperson, at this point, needs to get a toe-hold in AI concepts. Whether you plan to be at the leading edge or following the pack, the fast pace of progress in AI means it makes sense to keep yourself in a **state of readiness**. 
 
 If you don’t have the questions yet, or your basic question is let's say "WTH?", then read on. If you think you have the questions, you might find this guide answers some of them, too. My goals are as follows:
