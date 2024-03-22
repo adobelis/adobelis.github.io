@@ -1,3 +1,11 @@
+---
+title: "AI for business FAQ"
+date: 2024-03-21 16:58:56 +08:00
+previous: /intro
+tags:
+- ai
+---
+
 ## What is AI and why is it moving so fast? 
 AI is a broad term, generally referring to any computer program with human-like capabilities. 
 The recent rapid progress in AI that has gotten so much attention has been concentrated in 
