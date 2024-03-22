@@ -1,6 +1,8 @@
 ---
 title: "AI for business ~~FAQ~~ WTF?"
 date: 2024-03-21 16:58:56 +08:00
+previous: /
+next: /what-is-ai-and-why-now
 tags:
 - ai
 ---
